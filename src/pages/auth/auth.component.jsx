@@ -5,7 +5,7 @@ import './auth.styles.scss'
 import { SignIn } from '../../components/sign-in/sign-in.component.jsx'
 
 export const AuthPage = () => (
-    <div class='auth'>
+    <div className='auth'>
         <SignIn></SignIn>
     </div>
 )
